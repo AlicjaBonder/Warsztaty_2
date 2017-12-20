@@ -26,3 +26,5 @@ dotyczy,	kiedy	oraz	przez	którego
 użytkownika	zostało	dodane.
 
 
+
+
