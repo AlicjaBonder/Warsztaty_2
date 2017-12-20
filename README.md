@@ -71,35 +71,4 @@ ponownie	wyświetli	listę	danych	i	zada
 pytanie	o	wybór	opcji.
 
 
-Program	UserManager	-	program użytkownika
-Program	po	uruchomieniu	wyświetli	w
-konsoli	napis
-Program	przyjmie	jeden	parametr
-podawany	podczas	uruchamiania	z	konsoli
-lub	IDE,	który	będzie	symbolizował
-identyfikator	użytkownika.
-"Wybierz	jedną	z	opcji:"
-view	-	przeglądanie	swoich	rozwiązań
-add	-	dodawanie	rozwiązania
-
-Dla	uproszczenia	przyjmujemy	że	dodanego
-rozwiązania	nie	możemy	usuwać,	ani
-edytować.
-Po	wybraniu	odpowiedniej	opcji	program
-odpyta	o	dane	i	wykona	odpowiednią
-operacje:
-add	-	wyświetli	listę	zadań	do	których
-użytkownik	nie	dodał	jeszcze
-rozwiązania,	a	następnie	odpyta	o	id
-zadania	do	którego	ma	zostać	dodane
-rozwiązanie.
-W	przypadku	próby	dodania	rozwiązania	do
-zadania,	które	już	istnieje	program	ma
-wyświetlić	komunikat.
-Pole	updated	-	wypełni	się	automatycznie,
-użytkownik	ma	zostać	odpytany	o
-rozwiązanie	zadania.
-W	przypadku	quit	-	program	zakończy
-działanie.
-
 
