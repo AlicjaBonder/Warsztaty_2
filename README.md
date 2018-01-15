@@ -1,74 +1,17 @@
 #Warsztaty_2
 
-Celem	warsztatów	jest	napisanie	obiektowej,	bazodanowej	warstwy	aplikacji	dla	szkoły
-programowania.
-Aplikacja	będzie	zawierać	częściowy	wycinek	potencjalnych	funkcjonalności	-
-przechowywanie	rozwiązań	dla	zadań	wykonywanych	przez	kursantów.
+The purpose of the workshope is made objecting, database application layer for programming school.
+Application has partial potential functionality - storage solutions for excercises performed by students.
 
-Program	1	UserManager-	zarządzanie
-użytkownikami
-Po	wpisaniu	i	zatwierdzeniu	odpowiedniej
-opcji	program	odpyta	o	dane:
-Program	po	uruchomieniu	wyświetli	na
-konsoli	listę	wszystkich	użytkowników.
-add	-	wszystkie	dane	występujące	w
-klasie	User	bez	id
-edit	-	wszystkie	dane	występujące	w
-klasie	User	oraz	id
-delete	-id	użytkownika	którego	należy
-usunąć
-Następnie	wyświetli
-"Wybierz	jedną	z	opcji:"
-add	-	dodanie	użytkownika
-edit	-	edycja	użytkownika
-delete	-	edycja	użytkownika
-quit	-	zakończenie	programu
-Po	wykonaniu	dowolnej	z	opcji,	program
-ponownie	wyświetli	listę	danych	i	zada
-pytanie	o	wybór	opcji.
-W	przypadku	quit	-	program	zakończy
-działanie.
+Programme 1 UserManager- managment of the users
+After starting programme you can write one of the command to: shows a lists of all users, add new user, edit existing user, delete user.If you write quit  it generate to programme end.
 
-Program	2	ExcerciseManager-	zarządzanie	zadaniami
-Po	wpisaniu	i	zatwierdzeniu	odpowiedniej
-opcji	program	odpyta	o	dane:
-Program	po	uruchomieniu	wyświetli	na
-konsoli	listę	wszystkich	zadań.
-add	-	wszystkie	dane	występujące	w
-klasie	Exercise	bez	id
-edit	-	wszystkie	dane	występujące	w
-klasie	Exercise	oraz	id
-delete	-id	zadania	które	należy	usunąć
-Następnie	wyświetli	w	konsoli	napis
-"Wybierz	jedną	z	opcji:"
-add	-	dodanie	zadania
-edit	-	edycja	zadania
-delete	-	edycja	zadania
-quit	-	zakończenie	programu
-Po	wykonaniu	dowolnej	z	opcji,	program
-ponownie	wyświetli	listę	danych	i	zada
-pytanie	o	wybór	opcji.
+Programme 2 ExcerciseManager- managment of the excercises
+After starting programme you can write one of the command to: shows a lists of all excercise, add new excercise, edit existing excercise, delete excercise.If you write quit  it generate to programme end.
 
-Program	3	GroupManager-	zarządzanie	grupami
-Po	wpisaniu	i	zatwierdzeniu	odpowiedniej
-opcji	program	odpyta	o	dane	i	wykona
-odpowiednią	operacje:
-Program	po	uruchomieniu	wyświetli	na
-konsoli	listę	wszystkich	grup.
-Następnie	wyświetli	w	konsoli	napis
-add	-	wszystkie	dane	występujące	w
-klasie	Group	bez	id
-edit	-	wszystkie	dane	występujące	w
-klasie	Group	oraz	id
-delete	-id	grupy	którą	należy	usunąć
-"Wybierz	jedną	z	opcji:"
-add	-	dodanie	grupy
-edit	-	edycja	grupy
-delete	-	edycja	grupy
-quit	-	zakończenie	programu
-Po	wykonaniu	dowolnej	z	opcji,	program
-ponownie	wyświetli	listę	danych	i	zada
-pytanie	o	wybór	opcji.
+Program	3  GroupManager-managment of the groups
+After making any option, program again shows lists with data and ask which options would you like to choose.
+
 
 
 
