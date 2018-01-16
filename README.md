@@ -1,4 +1,5 @@
 #Warsztaty_2
+Using Technology: JavaEE, MySQL.
 
 The purpose of the workshope is made objecting, database application layer for programming school.
 Application has partial potential functionality - storage solutions for excercises performed by students.
